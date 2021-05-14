@@ -2,11 +2,11 @@
 
 How we say in Italy: **"Che fai? ASCIIFY!"**.
 
-# What it does
+## What it does
 
 @euberdeveloper/asciify is a simple npm module to convert a unicode string to the best equivalent ascii string.
 
-# How to use it
+## How to use it
 
 Install it via:
 

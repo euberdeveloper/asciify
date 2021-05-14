@@ -1,6 +1,6 @@
 {
   "name": "@euberdeveloper/asciify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An npm module to convert a unicode string to the best equivalent ascii string",
   "main": "index.js",
   "types": "index.d.js",
