@@ -1,0 +1,18 @@
+{
+  "name": "@euberdeveloper/asciify",
+  "version": "1.0.3",
+  "description": "An npm module to convert a unicode string to the best equivalent ascii string",
+  "main": "index.js",
+  "types": "index.d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ascii-to-unicode",
+    "ascii",
+    "unicode",
+    "converter"
+  ],
+  "author": "Eugenio Vinicio Berretta <euberdeveloper@gmail.com>",
+  "license": "MIT"
+}
